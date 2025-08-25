@@ -1,5 +1,8 @@
 ## Olá 👋
 
+###### Sobre o Kledson
+Sou aluno da EBAC, estou fazendo curso de Desenvolvedor Full Stack Java.
+
 ### Habilidades
 
 <strong>JAVA</strong>
@@ -10,7 +13,11 @@
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KledsonFerreiraFonseca&repo=KledsonFerreiraFonseca&theme=dark)](https://github.com/KledsonFerreiraFonseca/hotel-Countryside)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KledsonFerreiraFonseca&repo=hotel-Countryside&theme=dark)](https://github.com/KledsonFerreiraFonseca/hotel-Countryside)
+
+### Linguagens Utilizadas
+
+[![top langs](https://github-readme-stats.vercel.app/api/top-langs?username=KledsonFerreiraFonseca&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contatos
 
