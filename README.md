@@ -5,7 +5,7 @@ Sou aluno da EBAC, estou fazendo curso de Desenvolvedor Full Stack Java.
 
 ### Habilidades
 
-<strong>JavaScript / NodeJS</strong>
+<strong>HTML / CSS / Java / JavaScript / NodeJS</strong>
 
 ### Detalhes
 
